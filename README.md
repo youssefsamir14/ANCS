@@ -19,6 +19,7 @@
 </p>
 
 <p>
+  <a href="#-team-project">Team Project</a> •
   <a href="#-screenshots">Screenshots</a> •
   <a href="#-features">Features</a> •
   <a href="#-installation">Installation</a> •
@@ -28,6 +29,19 @@
 </p>
 
 </div>
+
+---
+
+## 👥 Team Project
+
+ANCS was developed collaboratively as a university graduation project. The project involved teamwork across the design, development, testing, and integration of a desktop-based network management system.
+
+### Team Collaboration
+- Participated in collaborative project development and team discussions.
+- Worked with the team on project tasks and component integration.
+- Contributed to the overall development process as part of the graduation project team.
+
+> This repository represents a team project. The contributions described here reflect team collaboration and are not intended to imply individual ownership of every feature.
 
 ---
 
